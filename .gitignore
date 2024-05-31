@@ -1,0 +1,4 @@
+/.vs
+/SampleMVCApp/bin
+/SampleMVCApp/obj
+/SampleMVCApp/*.user
